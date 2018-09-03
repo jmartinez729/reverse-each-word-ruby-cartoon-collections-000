@@ -7,6 +7,7 @@ def reverse_each_word(sentence)
     reverse_string << word.reverse
   end 
   
+  return reverse_string 
     
   
   
